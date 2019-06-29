@@ -1,6 +1,6 @@
 # guessing game.
 
-secret_word = "giraffe"
+secret_word = "sphynx"
 guess = ""
 count = 0
 
